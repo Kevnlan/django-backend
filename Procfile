@@ -1,1 +1,1 @@
-
+web: gunicorn ctsdemo.wsgi --log-file -
